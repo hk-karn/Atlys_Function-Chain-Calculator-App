@@ -3,7 +3,9 @@ This is a task given by Atlys to understand my skillset of joining Atlys.
 Problem Statement : A web application that allows users to execute a chain of 5 mathematical functions, with the output (y) of each function serving as the input (x) for the next.
 
 ## Getting Started
-For the live preview of the application, visit:
+For the live preview of the application, visit:```bash 
+https://atlys-function-chain-calculator-app.vercel.app/
+```
 
 And, For setting up the application in local, follow the below steps:
 1. Prerequisites
